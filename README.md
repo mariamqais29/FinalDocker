@@ -18,7 +18,13 @@ To run the app :
 
 Access app using : http://localhost:2906
 
+Output: 
 ![image](https://user-images.githubusercontent.com/66691418/202925712-afd94d0b-4d02-4c07-bc2e-1efd779c4fa0.png)
+
+
+
+
  
 
+![jenkins](https://user-images.githubusercontent.com/66691418/202927263-d711eac0-35ad-4af9-b2d1-7c27f4894c7d.jpg)
 
