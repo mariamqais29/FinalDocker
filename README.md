@@ -16,7 +16,7 @@ To run the app :
 2. install the requirements.txt
 3. clone and run the app.
 
-Access app using : http://localhost:2906
+Access app using : http://localhost:2906 .
 Output: 
 
 
@@ -26,6 +26,7 @@ Output:
 
 
  
+Jenkins Pipeline :
 
 ![jenkins](https://user-images.githubusercontent.com/66691418/202927263-d711eac0-35ad-4af9-b2d1-7c27f4894c7d.jpg)
 
