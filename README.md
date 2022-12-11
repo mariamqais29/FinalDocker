@@ -30,5 +30,4 @@ Jenkins Pipeline :
 
 ![jenkins](https://user-images.githubusercontent.com/66691418/202927263-d711eac0-35ad-4af9-b2d1-7c27f4894c7d.jpg)
 
-Slack : 
-![image](https://user-images.githubusercontent.com/66691418/206910054-5d0df044-939b-4b38-8c5b-693d136a34e0.png)
+
